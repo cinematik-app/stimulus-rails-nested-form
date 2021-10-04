@@ -2,6 +2,7 @@
   "compilerOptions": {
     "lib": ["dom", "es6"],
     "types": ["vite/client", "jest"],
-    "skipLibCheck": true
+    "skipLibCheck": true,
+    "outDir": "./dist/"
   }
 }
